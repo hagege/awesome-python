@@ -2,8 +2,6 @@
 
 A curated list of awesome Python frameworks, libraries, software and resources.
 
-Das ist eine neue Zeile, hgg, 28.3.2020
-
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Awesome Python](#awesome-python)
